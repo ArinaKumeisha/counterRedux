@@ -1,0 +1,27 @@
+
+
+.error {
+    background-color: red;
+    width:200px;
+    height: 25px;
+}
+.input {
+    width:200px;
+    height: 25px;
+}
+
+.containerSettings {
+    border: 20px solid #636383;
+    height: 300px;
+    width: 400px;
+    border-radius: 35px
+}
+
+.button {
+    margin: 5px;
+    font-size: 25px;
+    line-height: 1.5;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: rgba(128, 128, 128, 0.4);
+}
