@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/counter_Redux/static/css/main.19b8a40b.chunk.css",
-    "main.js": "/counter_Redux/static/js/main.40626e90.chunk.js",
-    "main.js.map": "/counter_Redux/static/js/main.40626e90.chunk.js.map",
+    "main.css": "/counter_Redux/static/css/main.f2e8518d.chunk.css",
+    "main.js": "/counter_Redux/static/js/main.3a5faa0e.chunk.js",
+    "main.js.map": "/counter_Redux/static/js/main.3a5faa0e.chunk.js.map",
     "runtime-main.js": "/counter_Redux/static/js/runtime-main.15820209.js",
     "runtime-main.js.map": "/counter_Redux/static/js/runtime-main.15820209.js.map",
     "static/js/2.17f2a30f.chunk.js": "/counter_Redux/static/js/2.17f2a30f.chunk.js",
     "static/js/2.17f2a30f.chunk.js.map": "/counter_Redux/static/js/2.17f2a30f.chunk.js.map",
     "index.html": "/counter_Redux/index.html",
-    "static/css/main.19b8a40b.chunk.css.map": "/counter_Redux/static/css/main.19b8a40b.chunk.css.map",
+    "static/css/main.f2e8518d.chunk.css.map": "/counter_Redux/static/css/main.f2e8518d.chunk.css.map",
     "static/js/2.17f2a30f.chunk.js.LICENSE.txt": "/counter_Redux/static/js/2.17f2a30f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.15820209.js",
     "static/js/2.17f2a30f.chunk.js",
-    "static/css/main.19b8a40b.chunk.css",
-    "static/js/main.40626e90.chunk.js"
+    "static/css/main.f2e8518d.chunk.css",
+    "static/js/main.3a5faa0e.chunk.js"
   ]
 }
