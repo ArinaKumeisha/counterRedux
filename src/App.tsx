@@ -43,8 +43,9 @@ export const App = () => {
 
     return (
 
-        <div className={'App'}>
-
+        <div className='App'>
+            <h1>Counter</h1>
+            <div className='container'>
             <Settings
                 inCorrect={inCorrect}
                 startValue={startValue}
@@ -53,6 +54,7 @@ export const App = () => {
                 maxValueHandler={maxValueHandler}
                 startValueHandler={startValueHandler}
             />
+
             <Display
                 inCorrect={inCorrect}
                 value={value}
@@ -61,9 +63,9 @@ export const App = () => {
                 increment={increment}
                 reset={reset}
             />
-
-
+            </div>
         </div>
+
     )
 
 }
